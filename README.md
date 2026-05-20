@@ -67,11 +67,11 @@ The post content is written to a temporary file before being sent, which avoids 
 
    ## Credentials
    - API Key: sk_xxxxxxxxxxxxxxxxxxxxx
-   - Profile ID: 6a0a8ddbd9a4f8dc61a7f926
+   - Profile ID: <your_profile_id>
    - Timezone: Asia/Dhaka
 
    ## LinkedIn Account (Personal Brand Profile)
-   - Account ID: 6a0a8e575e333c05298cd785
+   - Account ID: <your_account_id>
    ```
 
 5. Every subsequent post works immediately — no prompts.
